@@ -2,7 +2,7 @@
 title: JS의 비구조화 할당
 date: 2023-07-26 12:18:13 +0900
 categories: [Bloggings, Javascript]
-tags: [js] # TAG names should always be lowercase
+tags: [js, 문법] # TAG names should always be lowercase
 ---
 
 ## Js의 특이한 문법, 비구조화 할당 (destructing assignment)
