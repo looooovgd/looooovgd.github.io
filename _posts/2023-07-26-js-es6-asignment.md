@@ -1,14 +1,17 @@
 ---
-title: JS es6 비구조화 할당
+title: JS의 비구조화 할당
 date: 2023-07-26 12:18:13 +0900
 categories: [Bloggings, Javascript]
-tags: [js],[es6],[자바스크립트],[문법]    # TAG names should always be lowercase
+tags: [js] # TAG names should always be lowercase
 ---
+
 ## Js의 특이한 문법, 비구조화 할당 (destructing assignment)
 자바스크립트를 리액트에서 처음 접하게 되어서, 문법공부를 한다기보다는 읽으면서 공부하자는 마인드로 시작하였습니다.
 읽다가 이런 스타일의 문법을 접하게 되어, 나중에 찾기 쉽게 하기위해 기록하게 되었습니다.
 
-> _비구조화 할당_ 이란?
+### 개념설명 
+
+ > _비구조화 할당_ 이란?
 : {} 스코프 안에 있는 값을 스코프 밖에서도 쓸 수 있게 꺼내어주는 것.
 
 밑의 예시와 같은 스타일입니다.
@@ -31,7 +34,7 @@ console.log(`출력결과: ${alpha}*${b} = ${alpha*b}`)
 
 ***
 
-> 실제로 쓰일 때에는...
+#### > 실제로 쓰일 때에는...
 
 ```javascript
 const jinx = {

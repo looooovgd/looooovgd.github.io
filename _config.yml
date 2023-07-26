@@ -89,7 +89,7 @@ comments:
   # utterances settings › https://utteranc.es/
   utterances:
     repo: looooovgd/for_utterances # <gh-username>/<repo>
-    issue_term: # < url | pathname | title | ...>
+    issue_term: pathname # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
     repo: # <gh-username>/<repo>
