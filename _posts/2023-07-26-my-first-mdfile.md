@@ -8,7 +8,7 @@ tags: [first]     # TAG names should always be lowercase
 here is
 markdwon
 
-{% include embed/{youtube}.html id='{w-xC8TDe2Js}' %}
+
 <br/>
 ends here
 
