@@ -1,6 +1,6 @@
 ---
 title: k8s oci, 컨테이너 실행 환경 표준
-date: 2023-09-01 03:53:13 +0900
+date: 2023-09-01 03:13:13 +0900
 categories: [Bloggings, k8s]
 tags: [Docker, 컨테이너, k8s, 쿠버네티스]    # TAG names should always be lowercase
 ---
