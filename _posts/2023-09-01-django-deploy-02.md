@@ -100,8 +100,9 @@ $  ./google-cloud-sdk/bin/gcloud init
 > **이제 gcloud로 시작하는 명령어를 터미널에서 쓸 수 있습니다!**
 
 ## 2.6.1 인스턴스 접속하기 & 비밀번호 설정
-
-인스턴스 페이지
+<div>
+<img src='https://drive.google.com/uc?export=download&id=13becX4La3NMAuPnz0v3jiEnwGKOuLnVq'>
+</div>
 
 인스턴스 페이지로 돌아와서 보면 아까 만든 우분투가 보일겁니다.
 * 그림에 있는 연결 밑에있는 저 (화살표) - (gcloud 커맨드 보기) 클릭.
