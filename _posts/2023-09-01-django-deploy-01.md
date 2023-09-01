@@ -1,5 +1,5 @@
 ---
-title: gcp에서 django 배포 -01- 개요
+title: gcp에 django 배포 -01- 개요
 date: 2023-09-01 19:13:13 +0900
 categories: [Bloggings, django]
 tags: [gcp, django, 서버, python]    # TAG names should always be lowercase
@@ -7,8 +7,12 @@ tags: [gcp, django, 서버, python]    # TAG names should always be lowercase
 
 
 ---
-장고 서버에 대한 `기능적 설명과 실습`은 [장고걸스](https://tutorial.djangogirls.org/ko/)를 
-추천드려요.
+* 장고 서버에 대한 `기능적 설명과 실습`은 [장고걸스](https://tutorial.djangogirls.org/ko/)를 
+추천드려요. 장고 서버 뿐만 아니라 인터넷, `서버에 대한 기본적인 지식`들도 설명해줍니다.
+* [네로(nerogarret)](https://nerogarret.tistory.com/45)님의 블로그를 보면서 따라했고, 정말 많은 도움을 받았습니다.
+* 네로님은 [nachwon](https://nachwon.github.io/django-deploy-1-aws/)님의 도움을 많이 받으셨다고합니다.
+ 
+이러한 선한 영향력들이 개발자의 세계에 이렇게 잘 퍼졌으면 좋겠습니다.
 
 ---
 
