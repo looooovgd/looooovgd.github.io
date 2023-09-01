@@ -1,5 +1,5 @@
 ---
-title: gcp에 django 배포 -01- 개요
+title: gcp에서 django 배포 -01- 개요
 date: 2023-09-01 19:13:13 +0900
 categories: [Bloggings, django]
 tags: [gcp, django, 서버, python]    # TAG names should always be lowercase
