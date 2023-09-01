@@ -19,12 +19,20 @@ tags: [Docker, 컨테이너, k8s, 쿠버네티스]    # TAG names should always 
 ### 어떤 OCI를 사용해야 할까?
 
 도커shim은 정확히 실행 규격이 다른 것 이므로,
-그 규격만 잘 맞추어주면 되겠습니다.
+그 규격만 잘 맞추어주면 되겠습니다. 
+* k8s의 CNCF재단은 containerd를 기준으로 두는 것을 권장합니다.
 
 ### OCI 실행과정
 
-[다이어그램](https://lucid.app/lucidchart/008fa9a0-d7a4-4a37-a179-b77751731003/edit?viewport_loc=-79%2C-391%2C1537%2C1048%2C0_0&invitationId=inv_8b0edb1a-d4a2-405d-adf6-d3ab253fe99c)
+<div>
+<img src = 'https://drive.google.com/uc?export=download&id=1sSgIy6vSPMqYGWbxcRbRkwusUCDkZrS3'>
+</div>
 <br/>
+
+[다이어그램](https://lucid.app/lucidchart/008fa9a0-d7a4-4a37-a179-b77751731003/edit?viewport_loc=-79%2C-391%2C1537%2C1048%2C0_0&invitationId=inv_8b0edb1a-d4a2-405d-adf6-d3ab253fe99c)
+
+<br/>
+
 간략하게 OCI가 실행되는 과정을 정리한 다이어그입니다.
 사실 2번째 그림과 3번째 그림차이점 까지는 모르겠는데, kubelet에서 CRI를 호출 할 수 있고,
 CRI에서 containerd 또는 CRI-O를 호출 할 수 있습니다. Containerd는 containerd-shim을 통해
