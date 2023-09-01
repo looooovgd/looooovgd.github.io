@@ -1,5 +1,5 @@
 ---
-title: k8s oci, 컨테이너 실행 환경 표준
+title: k8s OCI, 컨테이너 실행 환경 표준
 date: 2023-09-01 03:13:13 +0900
 categories: [Bloggings, k8s]
 tags: [Docker, 컨테이너, k8s, 쿠버네티스]    # TAG names should always be lowercase
@@ -25,7 +25,7 @@ tags: [Docker, 컨테이너, k8s, 쿠버네티스]    # TAG names should always 
 
 [다이어그램](https://lucid.app/lucidchart/008fa9a0-d7a4-4a37-a179-b77751731003/edit?viewport_loc=-79%2C-391%2C1537%2C1048%2C0_0&invitationId=inv_8b0edb1a-d4a2-405d-adf6-d3ab253fe99c)
 <br/>
-간략하게 OCI가 실행되는 과정을 정리한 다이어그램입니다.
+간략하게 OCI가 실행되는 과정을 정리한 다이어그입니다.
 사실 2번째 그림과 3번째 그림차이점 까지는 모르겠는데, kubelet에서 CRI를 호출 할 수 있고,
 CRI에서 containerd 또는 CRI-O를 호출 할 수 있습니다. Containerd는 containerd-shim을 통해
 OCI runtime을 충족하는 runC나 crum,gvisor를 실행 시킬 수 있다고 합니다.
