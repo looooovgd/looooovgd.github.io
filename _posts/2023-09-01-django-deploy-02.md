@@ -26,7 +26,7 @@ k8s 구동해보려고 만들었는데 요긴하게 쓰는중입니다.
 [구글 클라우드 콘솔](https://console.cloud.google.com/)에 접속하여 가입을 진행 한 후, 
 다음과 같은 화면을 마주하게 될 것 입니다.
 <div>
-<img src="https://drive.google.com/uc?export=download&id=16QB5uO73APKOW0uj-aF0fRwdZLBOLHFJ">
+<img src='https://drive.google.com/uc?export=download&id=16QB5uO73APKOW0uj-aF0fRwdZLBOLHFJ'>
 </div>
 
  
@@ -35,7 +35,7 @@ k8s 구동해보려고 만들었는데 요긴하게 쓰는중입니다.
 ## 2.3.1 인스턴스 생성
 
 <div>
-<img src="https://drive.google.com/uc?export=download&id=1VFr0hjvptH9sARwVCCn1E0b3VpIJFwWW">
+<img src='https://drive.google.com/uc?export=download&id=1VFr0hjvptH9sARwVCCn1E0b3VpIJFwWW'>
 </div>
 
 * 왼쪽 상단의 햄버거 메뉴를 펼쳐서 (메뉴) - (compute engine)- (vm instance)로 가줍니다.

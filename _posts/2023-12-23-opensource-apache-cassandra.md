@@ -12,8 +12,8 @@ tags: [카산드라, Cassandra, 오픈소스, 분산, db, noSql, DHT, sql, Apach
 // 글 중간에 있는 괄호들은 제가 추가한 내용들이 대부분입니다.
 // 좀 길어서... 제 깃헙 블로그 ToC 기능을 잘 이용하시면 편합니다!
 
-<div style="background-image: url('https://cassandra.apache.org/assets/img/eye-texture.svg');    background-repeat: no-repeat;">
-<img src="https://cassandra.apache.org/assets/img/logo-white-r.png">
+<div>
+<img src='https://cassandra.apache.org/assets/img/logo-white-r.png'>
 </div>
 
 ---
@@ -50,7 +50,7 @@ Apache(아파치) 비영리 재단에서 운용되고 있습니다.
 확장성, 신뢰성들이 이루어 질 수 있도록 합니다. Apache 비영리 재단에서 관리되고 있습니다.
 
 <div>
-<img src="https://www.aquafold.com/wp-content/themes/Divi-Child/assets/diagrams-img/aquadatastudio_apache_cassandra_schema_browser_476x300.png">
+<img src='https://www.aquafold.com/wp-content/themes/Divi-Child/assets/diagrams-img/aquadatastudio_apache_cassandra_schema_browser_476x300.png'>
 </div>
 
 그림 1. 아파치 카산드라에서의 작업 이미지. [출처](https://www.aquafold.com/dbspecific/apache_cassandra_client)
@@ -156,8 +156,9 @@ nodal tokens을 이용한 직접적인 포맷(in a direct format)으로 작동�
 
 
 <div>
-<img src="https://images.spiceworks.com/wp-content/uploads/2022/07/15150609/Key-Features-of-Cassandra.png">
+<img src='https://images.spiceworks.com/wp-content/uploads/2022/07/15150609/Key-Features-of-Cassandra.png'>
 </div>
+
 그림2. 카산드라의 핵심 기능들
 
 ### 1. 오픈 소스 가능 (Open-Source Available)
