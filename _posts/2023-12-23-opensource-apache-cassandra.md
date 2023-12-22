@@ -1,8 +1,10 @@
 ---
-title: [번역] 아파치 카산드라란? (개요, 동작, 기능 및 사례) Apache Cassandra
+title: 아파치 카산드라란? (개요, 동작, 기능 및 사례) Apache Cassandra
 date: 2023-12-23 01:53:13 +0900
 categories: [Bloggings, opensource]
 tags: [카산드라, Cassandra, 오픈소스, 분산, db, noSql, DHT, sql, Apache, Distributed]    # TAG names should always be lowercase
+---
+
 ---
 
 > 이 글은 [Spiceworks 블로그의 글](https://www.spiceworks.com/tech/big-data/articles/what-is-cassandra/amp/)을 
