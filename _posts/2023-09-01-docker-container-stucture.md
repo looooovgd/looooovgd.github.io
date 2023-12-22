@@ -25,7 +25,7 @@ tags: [Docker, 컨테이너, k8s, 쿠버네티스]    # TAG names should always 
 ### OCI 실행과정
 
 <div>
-<img src = 'https://drive.google.com/uc?export=download&id=1sSgIy6vSPMqYGWbxcRbRkwusUCDkZrS3'>
+<img src = 'https://drive.google.com/uc?export=download&id=1sSgIy6vSPMqYGWbxcRbRkwusUCDkZrS3' alt='iii'>
 </div>
 <br/>
 
