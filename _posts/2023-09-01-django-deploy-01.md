@@ -24,7 +24,7 @@ tags: [gcp, django, 서버, python]    # TAG names should always be lowercase
 : gcp에 인스턴스(우분투)를 올리고, 거기에 다음과 같은 구성이 올라갑니다.
 
 <div>
-<img src = 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FQ00Ay%2FbtqGuqjD4JU%2FkvM3Jgdu77dBHqi6sqkfh1%2Fimg.png'>
+<img src = 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FQ00Ay%2FbtqGuqjD4JU%2FkvM3Jgdu77dBHqi6sqkfh1%2Fimg.png' alt='iii'>
 </div>
 <br/>
 
