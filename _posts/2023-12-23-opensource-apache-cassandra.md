@@ -13,7 +13,7 @@ tags: [카산드라, Cassandra, 오픈소스, 분산, db, noSql, DHT, sql, Apach
 
 // 글 중간에 있는 괄호들은 제가 추가한 내용들이 대부분입니다.
 // 좀 길어서... 제 깃헙 블로그 ToC 기능을 잘 이용하시면 편합니다!
-
+// pc로 접속하셔야 toc 바로가기가 보여요
 <div>
 <img src='https://cassandra.apache.org/assets/img/logo-white-r.png' alt='iii'>
 </div>

@@ -26,7 +26,7 @@ k8s 구동해보려고 만들었는데 요긴하게 쓰는중입니다.
 [구글 클라우드 콘솔](https://console.cloud.google.com/)에 접속하여 가입을 진행 한 후, 
 다음과 같은 화면을 마주하게 될 것 입니다.
 <div>
-<img src='https://drive.google.com/uc?export=download&id=16QB5uO73APKOW0uj-aF0fRwdZLBOLHFJ' alt='iii'>
+<img src="https://i.ibb.co/hRqVVrz/Screenshot-2023-09-01-at-21-22-23.png" alt="Screenshot-2023-09-01-at-21-22-23">
 </div>
 
  
@@ -35,7 +35,7 @@ k8s 구동해보려고 만들었는데 요긴하게 쓰는중입니다.
 ## 2.3.1 인스턴스 생성
 
 <div>
-<img src='https://drive.google.com/uc?export=download&id=1VFr0hjvptH9sARwVCCn1E0b3VpIJFwWW' alt='iii'>
+<img src="https://i.ibb.co/QN7jcG6/Screenshot-2023-09-01-at-22-23-52.png" alt="Screenshot-2023-09-01-at-22-23-52">
 </div>
 
 * 왼쪽 상단의 햄버거 메뉴를 펼쳐서 (메뉴) - (compute engine)- (vm instance)로 가줍니다.
@@ -107,7 +107,7 @@ $  ./google-cloud-sdk/bin/gcloud init
 
 ## 2.6.1 인스턴스 접속하기 & 비밀번호 설정
 <div>
-<img src='https://drive.google.com/uc?export=download&id=13becX4La3NMAuPnz0v3jiEnwGKOuLnVq' alt='iii'>
+<img src="https://i.ibb.co/HN2nxK6/Screenshot-2023-09-01-at-21-24-34.png" alt="Screenshot-2023-09-01-at-21-24-34">
 </div>
 
 인스턴스 페이지로 돌아와서 보면 아까 만든 우분투가 보일겁니다.
