@@ -1,11 +1,8 @@
 ---
-title: 도커란? + 도커 설치
+title: foot gun 이란
 date: 2024-01-15 15:53:13 +0900
 categories: [English, voca]
 tags: [english, voca]    # TAG names should always be lowercase
----
-# foot gun 이란
-
 ---
 
 ## foot gun 뜻
@@ -21,7 +18,7 @@ tags: [english, voca]    # TAG names should always be lowercase
 <img src="https://i.ibb.co/m9K64FX/IMG-0537.png" alt="img failed">
 </div>
 
-<위 그림은 ThePrimeTime 이라는 Rust개발자 스트리밍중 한 장면입니다.>
+* 위 그림은 ThePrimeTime 이라는 Rust개발자 스트리밍중 한 장면입니다.
 
 상황설명: 스트리머는 현재 go언어의 채널 기능에 대해 꽤 좋다는 칭찬을 하고 있으며,
 go를 이용해 자그만한 토이 프로젝트를 해 본 경험이 있다고 말합니다. 그에 대해
